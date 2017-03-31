@@ -1,0 +1,11 @@
+wikipedia/src/main/resources/
+wikipedia/target/
+wikipedia/project/target/
+wikipedia/.idea/
+wikipedia/project/project/target
+
+stackoverflow/src/main/resources/
+stackoverflow/target/
+stackoverflow/project/target/
+stackoverflow/.idea/
+stackoverflow/project/project/target
